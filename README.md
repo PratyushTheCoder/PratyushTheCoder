@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratyushTheCoder
 - 👀 I’m interested in Writting A Bunch Of Code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - I Am currently working on a python module 
 ```bash
 pip install computerspeak
